@@ -6,7 +6,7 @@
 # names: ['ambulance', 'army vehicle', 'auto rickshaw', 'bicycle', 'bus', 'car', 'garbagevan', 'human hauler', 'minibus', 'minivan', 'motorbike', 'pickup', 'policecar', 'rickshaw', 'scooter', 'suv', 'taxi', 'three wheelers -CNG-', 'truck', 'van', 'wheelbarrow']
 
 
-path: D:\New folder\OneDrive - student.vgu.edu.vn\CSE\project\car_detection
+path: D:\New folder\OneDrive - student.vgu.edu.vn\CSE\project\Yolov8\car_detection
 train: ../train/images
 val: ../train/images
 
